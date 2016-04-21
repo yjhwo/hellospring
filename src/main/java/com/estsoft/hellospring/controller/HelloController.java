@@ -22,5 +22,5 @@ public class HelloController {
 		return "main";
 	}
 	// ResponseBody 붙여준 이유는 Debugging 하기 쉬우라고 그냥...
-	// return 보내준 이유는 객체로 보내주기 위해서z
+	// return 보내준 이유는 객체로 보내주기 위해서
 }
